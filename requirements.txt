@@ -1,0 +1,8 @@
+streamlit
+supabase
+folium
+streamlit-folium
+twilio
+streamlit-autorefresh
+bcrypt
+pandas
